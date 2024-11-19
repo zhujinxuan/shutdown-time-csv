@@ -1,3 +1,5 @@
+projects/*
+__pycache__
 
 # pixi environments
 .pixi
