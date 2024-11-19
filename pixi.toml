@@ -1,0 +1,14 @@
+[project]
+authors = ["Jinxuan Zhu <zhujinxuan@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "power-shutdow-analysis"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pandas = ">=2.2.3,<3"
+python = ">=3.13.0,<3.14"
+pyyaml = ">=6.0.2,<7"

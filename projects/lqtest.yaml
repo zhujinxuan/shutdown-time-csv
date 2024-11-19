@@ -1,0 +1,5 @@
+timestamp_column: 'timestamp'
+power_column: 'power'
+timestamp_format: '%Y-%m-%d_%H:%M'
+output_path: 'D:\lqtest\shutdown_report.csv'
+data_path: 'D:\lqtest\power-time.csv'
